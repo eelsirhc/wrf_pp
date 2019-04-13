@@ -17,11 +17,12 @@ dependencies:
   - awscli=1.16.132
   - marstime
   - pydwrf2
-  - pydwell
+  - dwell
   - xarray
   - pymc3
   - statsmodels
   - dask
+  - snakemake
   - pip
   - pip:
     - environment_kernels
