@@ -1,6 +1,5 @@
 # An example collection of Snakemake rules imported in the main Snakefile.
 import os
-import support
 
 filepaths=dict()
 if os.path.exists("index"):
